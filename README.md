@@ -2,4 +2,4 @@
 
 # Temperature converter 
 
-# This function is used to convert fahrenheit  to celcius
+# This App is used to convert fahrenheit  to celcius
