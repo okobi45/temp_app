@@ -2,8 +2,6 @@ function ftoC(ft) {
     var result = ( ft - 32 ) * ( 5 / 9);
     return result;
   }
-  
-  //This formular will help students to convert fahrenheit  to celcius
    
   
   var boilingTemp = ftoC(212);
